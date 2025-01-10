@@ -1,0 +1,7 @@
+C:\Users\Cyrus Dave Javier\Desktop\ANDREI'S FILES\GITHUB\Git\gitHubTest\programTest\programTest\bin\Debug\programTest.exe.config
+C:\Users\Cyrus Dave Javier\Desktop\ANDREI'S FILES\GITHUB\Git\gitHubTest\programTest\programTest\bin\Debug\programTest.exe
+C:\Users\Cyrus Dave Javier\Desktop\ANDREI'S FILES\GITHUB\Git\gitHubTest\programTest\programTest\bin\Debug\programTest.pdb
+C:\Users\Cyrus Dave Javier\Desktop\ANDREI'S FILES\GITHUB\Git\gitHubTest\programTest\programTest\obj\Debug\programTest.csproj.AssemblyReference.cache
+C:\Users\Cyrus Dave Javier\Desktop\ANDREI'S FILES\GITHUB\Git\gitHubTest\programTest\programTest\obj\Debug\programTest.csproj.CoreCompileInputs.cache
+C:\Users\Cyrus Dave Javier\Desktop\ANDREI'S FILES\GITHUB\Git\gitHubTest\programTest\programTest\obj\Debug\programTest.exe
+C:\Users\Cyrus Dave Javier\Desktop\ANDREI'S FILES\GITHUB\Git\gitHubTest\programTest\programTest\obj\Debug\programTest.pdb
